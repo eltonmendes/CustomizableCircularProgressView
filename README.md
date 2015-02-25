@@ -7,7 +7,7 @@ Circular Progress View with all properties INSPECTABLE
 
 And methods to update progress! 
 
-:))))
+:)
 
 ![alt tag](http://media.giphy.com/media/3EAKxlHAVlaSrgUypa/giphy.gif)
 
