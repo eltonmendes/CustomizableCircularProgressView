@@ -3,7 +3,7 @@
 //  CustomizableCircularProgress
 //
 //  Created by Elton Mendes Vieira Junior on 2/25/15.
-//  Copyright (c) 2015 CIT. All rights reserved.
+//  Copyright Elton Mendes. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -41,7 +41,7 @@
         [self.circularProgressView changeProgressColor:[UIColor greenColor]];
 
     }
-    [self.circularProgressView updateProgress:1.0f withDuration:2.0f];
+    [self.circularProgressView updateProgress:0.1f withDuration:0.3f];
 }
 
 @end
