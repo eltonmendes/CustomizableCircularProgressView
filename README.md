@@ -1,4 +1,4 @@
-# CustomazibleCircularProgressView
+# CustomizableCircularProgressView
 
 Circular Progress View with all properties INSPECTABLE
 
